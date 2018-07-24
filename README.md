@@ -1,4 +1,4 @@
-# AmricanCheckers
+# Amrican Checkers
 Amrican Checkers game implemented in C# at .NET framework 2.0
  
 ## Instructions
@@ -19,6 +19,6 @@ Amrican Checkers game implemented in C# at .NET framework 2.0
 -Each King that left on the board - **3 Points**
 
 ## Demo
-![alt text](https://github.com/naorbak/Tetris/blob/master/Tetris.gif)
+![alt text](https://github.com/naorbakal/AmricanCheckers/blob/master/AmericanCheckers.gif?raw=true)
 
 Enjoy :)
