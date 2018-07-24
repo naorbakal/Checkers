@@ -14,7 +14,7 @@ Amrican Checkers game implemented in C# at .NET framework 2.0
 
 ### Score calculation
 
--Each player that left on the ground - **1 Point**
+-Each player that left on the board - **1 Point**
 
 -Each King that left on the board - **3 Points**
 
