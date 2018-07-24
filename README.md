@@ -21,9 +21,7 @@ Amrican Checkers game implemented in C# at .NET framework 2.0
 ## Demo
 ![alt text](https://github.com/naorbakal/AmricanCheckers/blob/master/AmericanCheckers.gif?raw=true)
 
-Done with guy kremer
-
-`Also performed by **Guy Kremer**` 
+> Also performed by **Guy Kremer**
 
 Enjoy :)
 
