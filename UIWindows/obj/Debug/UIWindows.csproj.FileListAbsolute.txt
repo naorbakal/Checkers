@@ -1,0 +1,10 @@
+C:\Users\naorp\Desktop\B18 Ex05 NaorBakal 204269708 GuyKremer 311242523\UIWindows\bin\Debug\UIWindows.exe
+C:\Users\naorp\Desktop\B18 Ex05 NaorBakal 204269708 GuyKremer 311242523\UIWindows\bin\Debug\UIWindows.pdb
+C:\Users\naorp\Desktop\B18 Ex05 NaorBakal 204269708 GuyKremer 311242523\UIWindows\bin\Debug\AmericanCheckers.dll
+C:\Users\naorp\Desktop\B18 Ex05 NaorBakal 204269708 GuyKremer 311242523\UIWindows\bin\Debug\AmericanCheckers.pdb
+C:\Users\naorp\Desktop\B18 Ex05 NaorBakal 204269708 GuyKremer 311242523\UIWindows\obj\Debug\UIWindows.csprojResolveAssemblyReference.cache
+C:\Users\naorp\Desktop\B18 Ex05 NaorBakal 204269708 GuyKremer 311242523\UIWindows\obj\Debug\UIWindows.FormGameSettings.resources
+C:\Users\naorp\Desktop\B18 Ex05 NaorBakal 204269708 GuyKremer 311242523\UIWindows\obj\Debug\UIWindows.Properties.Resources.resources
+C:\Users\naorp\Desktop\B18 Ex05 NaorBakal 204269708 GuyKremer 311242523\UIWindows\obj\Debug\UIWindows.csproj.GenerateResource.Cache
+C:\Users\naorp\Desktop\B18 Ex05 NaorBakal 204269708 GuyKremer 311242523\UIWindows\obj\Debug\UIWindows.exe
+C:\Users\naorp\Desktop\B18 Ex05 NaorBakal 204269708 GuyKremer 311242523\UIWindows\obj\Debug\UIWindows.pdb

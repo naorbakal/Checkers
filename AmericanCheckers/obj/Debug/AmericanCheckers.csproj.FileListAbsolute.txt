@@ -1,0 +1,5 @@
+C:\Users\naorp\Desktop\B18 Ex05 NaorBakal 204269708 GuyKremer 311242523\AmericanCheckers\bin\Debug\AmericanCheckers.dll
+C:\Users\naorp\Desktop\B18 Ex05 NaorBakal 204269708 GuyKremer 311242523\AmericanCheckers\bin\Debug\AmericanCheckers.pdb
+C:\Users\naorp\Desktop\B18 Ex05 NaorBakal 204269708 GuyKremer 311242523\AmericanCheckers\obj\Debug\AmericanCheckers.csprojResolveAssemblyReference.cache
+C:\Users\naorp\Desktop\B18 Ex05 NaorBakal 204269708 GuyKremer 311242523\AmericanCheckers\obj\Debug\AmericanCheckers.dll
+C:\Users\naorp\Desktop\B18 Ex05 NaorBakal 204269708 GuyKremer 311242523\AmericanCheckers\obj\Debug\AmericanCheckers.pdb
