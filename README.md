@@ -1,4 +1,4 @@
-# Amrican Checkers
+# American Checkers
 Amrican Checkers game implemented in C# at .NET framework 2.0 to **windows application**.
  
 ## Instructions
